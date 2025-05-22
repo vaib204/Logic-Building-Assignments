@@ -18,4 +18,5 @@ int main()
   scanf("%d", &iValue);
 
   Pattern(iValue);
+  return 0;
 }
