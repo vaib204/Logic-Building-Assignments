@@ -26,7 +26,7 @@ class Matrix
     
   }
 }
-class program465
+class program5
 {
   public static void main(String a[])
   {
@@ -44,4 +44,5 @@ class program465
     mobj.Pattern();
 
   }
+
 }
